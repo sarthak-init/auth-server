@@ -1,0 +1,5 @@
+{
+  "clients": [
+    {"sid": "PASTE-YOUR-SID-HERE", "name": "YourName", "active": true}
+  ]
+}
